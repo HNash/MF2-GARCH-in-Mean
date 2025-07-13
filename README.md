@@ -1,3 +1,4 @@
+This is a backup of the code written for the thesis "Examining the Risk-Return Relationship Using the MF2-GARCH Model" by Hussam Elnashar.
 <h3>Dependencies (Python Libraries):</h3>
 <ul>
   <li>pandas</li>
