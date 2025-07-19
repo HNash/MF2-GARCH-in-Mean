@@ -1,4 +1,5 @@
-This is the supporting code for the thesis "Examining the Risk-Return Relationship Using the MF2-GARCH Model" to obtain the degree "Master of Science" (M.Sc.) by Hussam Elhamy Hamed Shaker ELNASHAR, born on 23.05.1998. Submitted to the Examination Board for the Master's program "Economics" at the Faculty of Economics and Social Sciences, Ruprecht-Karls-University Heidelberg, 2025.
+This is the supporting code for the Master's thesis "Examining the Risk-Return Relationship Using the MF2-GARCH Model" to obtain the degree "Master of Science" (M.Sc.). Submitted to the Examination Board for the Master's program "Economics" at the Faculty of Economics and Social Sciences, Ruprecht-Karls-University Heidelberg, 2025.
+<br><br>Author: Hussam Elhamy Hamed Shaker <b>ELNASHAR</b>, born on 23.05.1998
 <h3>Dependencies (Python Libraries):</h3>
 <ul>
   <li>pandas</li>
