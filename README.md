@@ -1,4 +1,4 @@
-This is a backup of the code written for the thesis "Examining the Risk-Return Relationship Using the MF2-GARCH Model" by Hussam Elnashar.
+This is the supporting code for the thesis "Examining the Risk-Return Relationship Using the MF2-GARCH Model" by Hussam Elhamy Hamed Shaker ELNASHAR, born on 23.05.1998. Submitted to the Examination Board for the Master's program "Economics" at the Faculty of Economics and Social Sciences, Ruprecht-Karls-University Heidelberg, 2025.
 <h3>Dependencies (Python Libraries):</h3>
 <ul>
   <li>pandas</li>
